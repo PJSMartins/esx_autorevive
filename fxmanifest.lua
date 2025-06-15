@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'SeuNome'
+author 'PauloMartins'
 description 'Auto-revive para ESX'
 version '1.0.1'
 
